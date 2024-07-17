@@ -2,7 +2,11 @@ import React from 'react';
 
 const Page = () => {
   return (
-   <div>page2</div>
+  
+       <div>page2
+
+      
+    </div>
   );
 }
 
